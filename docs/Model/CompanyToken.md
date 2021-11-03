@@ -1,0 +1,14 @@
+# CompanyToken
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **int** |  | [optional] 
+**name** | **string** |  | [optional] 
+**token** | **string** |  | [optional] 
+**user** | **string** |  | 
+**valid_until** | [**\DateTime**](\DateTime.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+

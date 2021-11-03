@@ -1,0 +1,13 @@
+# AccountMonthlyReports
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**emails** | **string[]** |  | [optional] 
+**type** | **string** |  | [optional] [default to 'pdf']
+**from_date** | [**\DateTime**](\DateTime.md) |  | [optional] 
+**to_date** | [**\DateTime**](\DateTime.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
